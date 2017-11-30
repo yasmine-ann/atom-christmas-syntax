@@ -1,13 +1,17 @@
 {
-  "name": "christmas-syntax",
+  "name": "atom-christmas-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "An Atom syntax theme featuring a holiday-themed color palette.",
+  "author": "Yasmine Triola",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "holiday",
+    "christmas",
+    "merry"
   ],
-  "repository": "https://github.com/atom/christmas-syntax",
+  "repository": "https://github.com/yasmine-ann/atom-christmas-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
