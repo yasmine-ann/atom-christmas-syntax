@@ -1,6 +1,6 @@
-![Screenshot of theme](https://imgur.com/a/mYwQo)
-![Screenshot of theme](https://imgur.com/a/btc76)
-![Screenshot of theme](https://imgur.com/a/GJKKe)
+![Screenshot of theme](https://i.imgur.com/kOFccrw.jpg)
+![Screenshot of theme](https://i.imgur.com/YC9saHI.jpg)
+![Screenshot of theme](https://i.imgur.com/0Uy5iAy.jpg)
 
 ## Installation
 
